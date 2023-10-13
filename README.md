@@ -6,23 +6,23 @@
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 -Active participant in GTech Mulearn Current rank #61
 
-#### Networking: `required field`
+#### Networking: 
 
 - Actively participate in discussions, forums, and events related to your field. Share knowledge, insights, and experiences to contribute meaningfully to the community.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 -I am applying for the Top 100 because it represents a recognition of my contributions and expertise in the coding community. It reflects my commitment to continuously improving and sharing knowledge. Being in the Top 100 would affirm my position as a proficient web developer, demonstrating my dedication to excellence.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 -I am passionate about learning new skills and technologies. Even though my role does not explicitly require programming knowledge, I plan to learn Python in my free time.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - Kerala has seen a growth in startups, particularly in sectors like healthcare, education, fintech, and e-commerce. Cities like Kochi, Thiruvananthapuram, and Kozhikode have emerged as hubs for startups.
 
