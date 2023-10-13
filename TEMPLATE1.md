@@ -1,6 +1,6 @@
 Aravind Ashok
 
-### About Me
+### Aravind Ashok
 
 - i am third year electronics and computer engineering student at sjcet palai,currently learning Web Development. I built some projects using HTML, CSS, and JavaScript. I am always eager to learn new things and challenge myself to learn & grow.
 
